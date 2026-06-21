@@ -1,4 +1,6 @@
-### Python Basics
+### 3rd NELIREF Data Science and AI Summer School
+
+## Python Basics
 
 This repository contains a notebook for python beginners.
 
